@@ -1,4 +1,4 @@
-# Pulsar Single-Pulse and Polarization Analysis Pipeline
+# Pulsar Single-Pulse fitting tool
 
 A Python toolkit designed for radio pulsar single-pulse analysis, featuring Continuous Wavelet Transform (CWT) peak fitting, histogram-driven profile reconstruction, and modulation index calculation. This repository was
 developed to process the publicly available MSPES data.
